@@ -1,5 +1,11 @@
 # Links of Lore
 
+## Linux
+
+### Bluetooth
+
+- [x] [How To Fix Pulseaudio Not Detecting Bluetooth Headset Automatically](https://devicetests.com/fix-pulseaudio-bluetooth-headset)
+
 ## Programming Languages
 
 ### Elixir
