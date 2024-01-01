@@ -47,6 +47,10 @@
 - [ ] [Managing dotfiles with Nix](https://alex.pearwin.com/2021/07/managing-dotfiles-with-nix/)
 - [ ] [Tidying up your $HOME with Nix](https://juliu.is/tidying-your-home-with-nix/)
 
+### nix-env
+
+- [ ] [Ditch your version manager](https://juliu.is/ditch-your-version-manager/)
+
 ### Nix Flakes
 
 - [ ] [Nix Flakes: first steps](https://blog.kubukoz.com/flakes-first-steps/)
