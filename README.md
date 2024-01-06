@@ -83,6 +83,7 @@
 ### Neovim
 
 - [x] [Plugin UI architecture](https://github.com/neovim/neovim/wiki/Plugin-UI-architecture)
+- [x] [Building Neovim from source](https://dev.to/asyncedd/building-neovim-from-source-1794)
 
 ## Terminal
 
