@@ -92,3 +92,9 @@
 ### tmux
 
 - [x] [tmux - a very simple beginner's guide](https://www.ocf.berkeley.edu/~ckuehl/tmux/)
+
+## Bitcoin
+
+### Descriptors
+
+- [x] [Bitcoin Dev Kit Descriptors](https://bitcoindevkit.org/descriptors/)
