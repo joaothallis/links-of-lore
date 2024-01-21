@@ -102,3 +102,7 @@
 ### Script
 
 - [x] [Bitcoin script 101](https://bitcoindev.network/bitcoin-script-101/)
+
+### Cryptography
+
+- [x] [Extended Private Key (Xprv)](https://river.com/learn/terms/x/xprv-extended-private-key/)
