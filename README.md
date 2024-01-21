@@ -98,3 +98,7 @@
 ### Descriptors
 
 - [x] [Bitcoin Dev Kit Descriptors](https://bitcoindevkit.org/descriptors/)
+
+### Script
+
+- [x] [Bitcoin script 101](https://bitcoindev.network/bitcoin-script-101/)
