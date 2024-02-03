@@ -10,6 +10,14 @@
 
 ## Programming Languages
 
+### Go
+
+- [ ] [Effective Go](https://golang.org/doc/effective_go.html)
+    - [ ] [The Go Programming Language Specification](https://go.dev/ref/spec)
+    - [x] [How to Write Go Code](https://go.dev/doc/code)
+        - [ ] [go help importpath](https://pkg.go.dev/cmd/go#hdr-Remote_import_paths)
+    - [ ] [Tour of Go](https://go.dev/tour/welcome/1)
+
 ### Elixir
 
 - [x] [Introduction to Telemetry in Elixir](https://blog.miguelcoba.com/introduction-to-telemetry-in-elixir)
