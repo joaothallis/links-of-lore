@@ -4,7 +4,13 @@
 
 - [x] [How to Create and Use Symbolic Links (aka Symlinks) on Linux](https://www.howtogeek.com/287014/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/)
 
-### Bluetooth
+### Audio
+
+#### PipeWire
+
+- [x] [PipeWire showing only dummy output](https://www.guyrutenberg.com/2022/06/07/pipewire-showing-only-dummy-output/)
+
+#### Bluetooth
 
 - [x] [How To Fix Pulseaudio Not Detecting Bluetooth Headset Automatically](https://devicetests.com/fix-pulseaudio-bluetooth-headset)
 - [x] [(K)Ubuntu 22.04 and Bluetooth Headphones](https://silviancretu.ro/kubuntu-2204-and-bluetooth-headphones.html)
