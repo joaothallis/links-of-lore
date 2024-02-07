@@ -7,6 +7,7 @@
 ### Bluetooth
 
 - [x] [How To Fix Pulseaudio Not Detecting Bluetooth Headset Automatically](https://devicetests.com/fix-pulseaudio-bluetooth-headset)
+- [x] [(K)Ubuntu 22.04 and Bluetooth Headphones](https://silviancretu.ro/kubuntu-2204-and-bluetooth-headphones.html)
 
 ## Programming Languages
 
