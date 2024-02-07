@@ -45,6 +45,17 @@
 - [x] [A Deep Dive Into Kubernetes Schema Validation](https://www.datree.io/resources/kubernetes-schema-validation)
 - [x] [THE ILLUSTRATED CHILDREN’S GUIDE TO KUBERNETES](https://www.cncf.io/phippy/the-childrens-illustrated-guide-to-kubernetes/)
 
+## OpenTelemetry
+
+### Messaging Systems
+
+- [x] [Semantic Conventions for Messaging Systems](https://opentelemetry.io/docs/specs/semconv/messaging/)
+    - [x] [Semantic Conventions for Messaging Spans](https://opentelemetry.io/docs/specs/semconv/messaging/messaging-spans/)
+
+#### General
+
+- [x] [https://opentelemetry.io/docs/specs/semconv/general/events/](https://opentelemetry.io/docs/specs/semconv/general/events/)
+
 ## Monitoring
 
 ### Prometheus
