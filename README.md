@@ -1,5 +1,11 @@
 # Links of Lore
 
+## Database
+
+### Postgres
+
+- [x] [Querying JSON Data in PostgreSQL](https://aaronbos.dev/posts/query-postgresql-json)
+
 ## Linux
 
 - [x] [How to Create and Use Symbolic Links (aka Symlinks) on Linux](https://www.howtogeek.com/287014/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/)
