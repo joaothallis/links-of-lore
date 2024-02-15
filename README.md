@@ -59,7 +59,7 @@
 - [x] [Semantic Conventions for Messaging Systems](https://opentelemetry.io/docs/specs/semconv/messaging/)
     - [x] [Semantic Conventions for Messaging Spans](https://opentelemetry.io/docs/specs/semconv/messaging/messaging-spans/)
 
-#### General
+### General
 
 - [x] [https://opentelemetry.io/docs/specs/semconv/general/events/](https://opentelemetry.io/docs/specs/semconv/general/events/)
 
