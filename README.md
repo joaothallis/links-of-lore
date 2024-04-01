@@ -108,6 +108,12 @@
 - [x] [OAuth mTLS – An Introduction to Mutual TLS for APIs](https://apiacademy.co/2022/11/oauth-mtls-an-introduction-to-mutual-tls-for-apis/)
 - [x] [Why is mutual TLS (mTLS) authentication a necessity in an organization?](https://www.encryptionconsulting.com/why-is-mutual-tls-mtls-authentication-needed/)
 
+## IBM
+
+### IBM MQ
+
+- [ ] [IBM MQ Developer Essentials](https://developer.ibm.com/learningpaths/ibm-mq-badge)
+
 ## Planning
 
 ### Estimation
