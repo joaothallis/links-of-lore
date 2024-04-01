@@ -120,6 +120,12 @@
 
 - [x] [Software Development Estimation: A Quick Guide](https://www.projectmanager.com/blog/software-development-estimation)
 
+## Incident
+
+### Post-Mortem
+
+- [ ] [What is a Software Post-Mortem and How Do You Write One?](https://www.freecodecamp.org/news/what-is-a-software-post-mortem/)
+
 ## Text Editor
 
 ### Vim Motions
