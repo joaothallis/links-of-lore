@@ -145,6 +145,11 @@
 
 ## Bitcoin
 
+###  Bitcoin Improvement Proposals
+
+- [x] [44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)
+- [x] [84](https://github.com/bitcoin/bips/blob/master/bip-0084.mediawiki)
+
 ### Descriptors
 
 - [x] [Bitcoin Dev Kit Descriptors](https://bitcoindevkit.org/descriptors/)
