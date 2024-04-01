@@ -10,6 +10,11 @@
 
 - [x] [How to Create and Use Symbolic Links (aka Symlinks) on Linux](https://www.howtogeek.com/287014/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/)
 
+### i3
+
+- [ ] [Enable tap to click in i3 WM](https://cravencode.com/post/essentials/enable-tap-to-click-in-i3wm/#additional-libinput-options)
+
+
 ### Audio
 
 #### PipeWire
