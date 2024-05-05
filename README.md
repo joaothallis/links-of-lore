@@ -30,6 +30,7 @@
 
 ### Go
 
+- [x] [Getting started with pgx](https://github.com/jackc/pgx/wiki/Getting-started-with-pgx)
 - [ ] [Effective Go](https://golang.org/doc/effective_go.html)
     - [ ] [The Go Programming Language Specification](https://go.dev/ref/spec)
     - [x] [How to Write Go Code](https://go.dev/doc/code)
