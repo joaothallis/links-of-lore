@@ -36,6 +36,7 @@
     - [x] [How to Write Go Code](https://go.dev/doc/code)
         - [ ] [go help importpath](https://pkg.go.dev/cmd/go#hdr-Remote_import_paths)
     - [ ] [Tour of Go](https://go.dev/tour/welcome/1)
+- [x] [getting started with golang and kafka](https://aran.dev/posts/getting-started-with-golang-and-kafka/)
 
 ### Elixir
 
