@@ -90,6 +90,10 @@
 
 ## Nix
 
+### NixOS
+
+- [x] [Install NixOS on DigitalOcean](https://madison-technologies.com/install-nixos-on-digitalocean/)
+
 ### nix-shell
 
 - [x] [Ad hoc shell environments](https://nix.dev/tutorials/first-steps/ad-hoc-shell-environments)
