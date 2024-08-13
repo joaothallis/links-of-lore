@@ -42,6 +42,14 @@
 
 - [x] [Introduction to Telemetry in Elixir](https://blog.miguelcoba.com/introduction-to-telemetry-in-elixir)
 
+### JavaScript
+
+#### Libraries
+
+##### React
+
+- [x] [Guia do iniciante em React – Hipsters #209](https://www.hipsters.tech/guia-do-iniciante-em-react-hipsters-209/)
+
 ### Sonic Pi
 
 - [x] [Generating Music with Sonic Pi](https://dev.to/jessicagarson/generating-music-with-sonic-pi-57od)
