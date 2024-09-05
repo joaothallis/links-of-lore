@@ -5,6 +5,7 @@
 ### Postgres
 
 - [x] [Querying JSON Data in PostgreSQL](https://aaronbos.dev/posts/query-postgresql-json)
+- [x] [PostgreSQL Tutorial for Beginners: Locking](https://www.youtube.com/watch?v=lhhFBqWMDvk)
 
 ## Linux
 
