@@ -42,6 +42,7 @@
 ### Elixir
 
 - [x] [Introduction to Telemetry in Elixir](https://blog.miguelcoba.com/introduction-to-telemetry-in-elixir)
+- [x] [Introduction to Deployment](https://hexdocs.pm/phoenix/deployment.html) #database
 
 ### JavaScript
 
