@@ -177,6 +177,12 @@
 
 ## Bitcoin
 
+- [x] [Unspent Transaction Output (UTXO)](https://river.com/learn/terms/u/unspent-transaction-output-utxo/)
+
+### Lightning Network
+
+- [x] [Welcome to the Builder's Guide to the LND Galaxy!](https://docs.lightning.engineering/)
+
 ###  Bitcoin Improvement Proposals
 
 - [x] [44](https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki)
