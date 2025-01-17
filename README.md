@@ -1,5 +1,11 @@
 # Links of Lore
 
+## AI
+
+- [x] [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
+- [ ] [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
+    - [ ] [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/)
+
 ## Database
 
 ### Postgres
@@ -124,6 +130,7 @@
 
 ### Nix Flakes
 
+- [x] [Zero to Nix Quick start](https://zero-to-nix.com/start/)
 - [ ] [Nix Flakes: first steps](https://blog.kubukoz.com/flakes-first-steps/)
 
 ## Authentication
@@ -178,6 +185,7 @@
 ## Bitcoin
 
 - [x] [Unspent Transaction Output (UTXO)](https://river.com/learn/terms/u/unspent-transaction-output-utxo/)
+- [x] [What's going on with testnet4?](https://blog.dlsouza.lol/bitcoin/testnet/2024/12/02/testnet4.html)
 
 ### Lightning Network
 
