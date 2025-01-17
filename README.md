@@ -6,6 +6,10 @@
 - [ ] [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
     - [ ] [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/)
 
+## Ask Questions
+
+- [ ] [How To Ask Questions The Smart Way](https://www.catb.org/esr/faqs/smart-questions.html)
+
 ## Database
 
 ### Postgres
