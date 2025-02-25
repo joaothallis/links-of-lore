@@ -25,7 +25,6 @@
 
 - [ ] [Enable tap to click in i3 WM](https://cravencode.com/post/essentials/enable-tap-to-click-in-i3wm/#additional-libinput-options)
 
-
 ### Audio
 
 #### PipeWire
@@ -53,6 +52,11 @@
 
 - [x] [Introduction to Telemetry in Elixir](https://blog.miguelcoba.com/introduction-to-telemetry-in-elixir)
 - [x] [Introduction to Deployment](https://hexdocs.pm/phoenix/deployment.html) #database
+
+#### Sentry
+
+- [x] [Tags](https://docs.sentry.io/platforms/elixir/enriching-events/tags/)
+- [x] [Context](https://docs.sentry.io/platforms/elixir/enriching-events/context/)
 
 ### JavaScript
 
