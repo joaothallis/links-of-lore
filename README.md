@@ -38,6 +38,10 @@
 
 ## Programming Languages
 
+### Python
+
+- [x] [Introduction to Flaky Tests by Example](https://aveuiller.github.io/introduction_to_flaky_tests_by_example.html)
+
 ### Go
 
 - [x] [Getting started with pgx](https://github.com/jackc/pgx/wiki/Getting-started-with-pgx)
