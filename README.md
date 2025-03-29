@@ -1,5 +1,13 @@
 # Links of Lore
 
+To get the url title, you can use the following command:
+
+```bash
+url=$(python3 fetch_title.py https://nixos.asia/en/dev)
+echo $url
+[Nix for Development – NixOS Asia](https://nixos.asia/en/dev)
+```
+
 ## AI
 
 - [x] [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
