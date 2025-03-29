@@ -199,6 +199,7 @@
 
 - [x] [Unspent Transaction Output (UTXO)](https://river.com/learn/terms/u/unspent-transaction-output-utxo/)
 - [x] [What's going on with testnet4?](https://blog.dlsouza.lol/bitcoin/testnet/2024/12/02/testnet4.html)
+- [x] [Como Usar o BIP-85 para Criar Seeds Seguras para Toda a Família.](https://soberaniadigital.substack.com/p/como-usar-o-bip-85-para-criar-seeds)
 
 ### Lightning Network
 
