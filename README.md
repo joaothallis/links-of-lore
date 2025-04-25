@@ -64,6 +64,7 @@ echo $url
 
 - [x] [Introduction to Telemetry in Elixir](https://blog.miguelcoba.com/introduction-to-telemetry-in-elixir)
 - [x] [Introduction to Deployment](https://hexdocs.pm/phoenix/deployment.html) #database
+- [x] [Getting Started with Elixir’s GenServer](https://medium.com/im-becoming-functional/getting-started-with-elixirs-genserver-ed05a9202bef)
 - [x] [Feature Flagging in Elixir with FunWithFlags](https://brittonbroderick.com/2022/11/29/feature-flagging-in-elixir-with-funwithflags/)
 
 #### Sentry
