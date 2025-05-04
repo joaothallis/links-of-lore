@@ -45,6 +45,10 @@ echo $url
 - [x] [How To Fix Pulseaudio Not Detecting Bluetooth Headset Automatically](https://devicetests.com/fix-pulseaudio-bluetooth-headset)
 - [x] [(K)Ubuntu 22.04 and Bluetooth Headphones](https://silviancretu.ro/kubuntu-2204-and-bluetooth-headphones.html)
 
+### termux
+
+- [x] [How To Turn Your Old Phone Into A Complete Powerful Server Using Localtunnel For Free?](https://medium.com/@sanchogodinho/how-to-turn-your-old-phone-into-a-complete-powerful-server-using-localtunnel-d5699b61f67)
+
 ## Programming Languages
 
 ### Python
