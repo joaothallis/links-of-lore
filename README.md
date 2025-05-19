@@ -22,6 +22,7 @@ echo $url
 
 ### Postgres
 
+- [x] [Postgres indexes for absolute beginners](https://www.pgmustard.com/blog/2019/04/02/postgres-indexes-for-absolute-beginners)
 - [x] [Querying JSON Data in PostgreSQL](https://aaronbos.dev/posts/query-postgresql-json)
 - [x] [PostgreSQL Tutorial for Beginners: Locking](https://www.youtube.com/watch?v=lhhFBqWMDvk)
 - [x] [https://trstringer.com/postgres-client-vim/](https://trstringer.com/postgres-client-vim/) #tmux #vim #psql
