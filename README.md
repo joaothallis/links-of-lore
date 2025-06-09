@@ -73,6 +73,10 @@ python3 add_link.py "https://nixos.asia/en/dev"
 - [x] [Feature Flagging in Elixir with FunWithFlags](https://brittonbroderick.com/2022/11/29/feature-flagging-in-elixir-with-funwithflags/)
 - [x] [The story of the Elixir SDK](https://configcat.com/blog/2021/12/17/elixir-sdk-story/)
 
+#### Poolboy
+
+- [x] [Poolboy - Elixir School](https://elixirschool.com/en/lessons/misc/poolboy)
+
 #### Sentry
 
 - [x] [Tags](https://docs.sentry.io/platforms/elixir/enriching-events/tags/)
