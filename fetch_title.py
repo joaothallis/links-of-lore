@@ -7,7 +7,7 @@ def fetch_title(url):
         response = requests.get(url)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
-        title = soup.title.string.strip()
+        title = soup.title.string.strip() if soup.title and soup.title.string else ""
         return title
     except Exception as e:
         return f"Error fetching title: {e}"

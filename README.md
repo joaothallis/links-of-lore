@@ -1,11 +1,9 @@
 # Links of Lore
 
-To get the url title, you can use the following command:
+To add a new link, you can use the following command:
 
 ```bash
-url=$(python3 fetch_title.py https://nixos.asia/en/dev)
-echo $url
-[Nix for Development – NixOS Asia](https://nixos.asia/en/dev)
+python3 add_link.py "https://nixos.asia/en/dev"
 ```
 
 ## AI
