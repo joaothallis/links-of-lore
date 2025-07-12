@@ -1,9 +1,9 @@
 # Links of Lore
 
-To add a new link, you can use the following command:
+To get the link with the title in markdown format, you can use the following command:
 
 ```bash
-python3 add_link.py "https://nixos.asia/en/dev"
+python3 fetch_title.py "https://nixos.asia/en/dev"
 ```
 
 ## AI
