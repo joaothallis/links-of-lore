@@ -208,6 +208,7 @@ python3 fetch_title.py "https://nixos.asia/en/dev"
 
 - [x] [Plugin UI architecture](https://github.com/neovim/neovim/wiki/Plugin-UI-architecture)
 - [x] [Building Neovim from source](https://dev.to/asyncedd/building-neovim-from-source-1794)
+- [x] [How to use Neovim's built-in terminal emulator](https://the-pi-guy.com/blog/how_to_use_neovims_builtin_terminal_emulator/)
 
 ## Terminal
 
