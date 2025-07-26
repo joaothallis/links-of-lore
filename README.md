@@ -25,6 +25,10 @@ python3 fetch_title.py "https://nixos.asia/en/dev"
 - [x] [PostgreSQL Tutorial for Beginners: Locking](https://www.youtube.com/watch?v=lhhFBqWMDvk)
 - [x] [https://trstringer.com/postgres-client-vim/](https://trstringer.com/postgres-client-vim/) #tmux #vim #psql
 
+## Hardware
+
+- [x] [ZimaBlade Review - The Perfect Home Server?](httpss://technotim.live/posts/zimablade-review/)
+
 ## Linux
 
 - [x] [How to Create and Use Symbolic Links (aka Symlinks) on Linux](https://www.howtogeek.com/287014/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/)
