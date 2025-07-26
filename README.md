@@ -8,6 +8,7 @@ python3 fetch_title.py "https://nixos.asia/en/dev"
 
 ## AI
 
+- [x] [The Developer’s Guide to Focus in the Age of AI Distraction](https://dev.to/teamcamp/the-developers-guide-to-focus-in-the-age-of-ai-distraction-3k18)
 - [x] [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
 - [ ] [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
     - [ ] [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/)
@@ -189,6 +190,10 @@ python3 fetch_title.py "https://nixos.asia/en/dev"
 
 - [x] [PlantUML for database modeling](https://medium.com/@elvis.gosselin/plantuml-for-database-modeling-1b71e6d4622d) #uml
 - [x] [PlantUML - beautiful quick diagrams to explain your models]https://youtu.be/EM-cvRubP4g?si=h65kIXLQVoPKiiWZ) #uml
+
+## Productivity
+
+- [x] [The Ivy Lee Method: The Daily Routine Experts Recommend for Peak Productivity](https://jamesclear.com/ivy-lee)
 
 ## Planning
 
