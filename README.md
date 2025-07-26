@@ -254,3 +254,7 @@ python3 fetch_title.py "https://nixos.asia/en/dev"
 ## Globalization
 
 - [x] [Standard locale names](https://learn.microsoft.com/en-us/globalization/locale/standard-locale-names)
+
+## Android
+
+- [x] [Use your Galaxy tablet as a second screen with your Windows PC](https://www.samsung.com/us/support/answer/ANS10002024/)
