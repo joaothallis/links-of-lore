@@ -29,6 +29,7 @@ python3 fetch_title.py "https://nixos.asia/en/dev"
 ## Hardware
 
 - [x] [ZimaBlade Review - The Perfect Home Server?](httpss://technotim.live/posts/zimablade-review/)
+- [x] [Self-hosting your own media considered harmful (updated)](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated)
 
 ## Linux
 
