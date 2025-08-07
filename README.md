@@ -226,6 +226,10 @@ python3 fetch_title.py "https://nixos.asia/en/dev"
 
 - [x] [tmux - a very simple beginner's guide](https://www.ocf.berkeley.edu/~ckuehl/tmux/)
 
+### Ghostty
+
+- [x] [How to Integrate Claude Code with Neovim Using Ghostty Terminal Panes](https://danielmiessler.com/blog/claude-code-neovim-ghostty-integration) #ai #productivity
+
 ## Bitcoin
 
 - [x] [Unspent Transaction Output (UTXO)](https://river.com/learn/terms/u/unspent-transaction-output-utxo/)
