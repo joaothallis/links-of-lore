@@ -156,6 +156,7 @@ python3 fetch_title.py "https://nixos.asia/en/dev"
 
 ### nix-shell
 
+- [ ] [Automatic environment activation with direnv — nix.dev  documentation](https://nix.dev/guides/recipes/direnv.html)
 - [x] [Ad hoc shell environments](https://nix.dev/tutorials/first-steps/ad-hoc-shell-environments)
 - [x] [Deterministic systems with Nix](https://www.bekk.christmas/post/2021/13/deterministic-systems-with-nix)
 
