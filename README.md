@@ -161,7 +161,7 @@ python3 fetch_title.py "https://nixos.asia/en/dev"
 
 ### direnv
 
-- [ ] [Automatic environment activation with direnv — nix.dev  documentation](https://nix.dev/guides/recipes/direnv.html)
+- [x] [Automatic environment activation with direnv — nix.dev  documentation](https://nix.dev/guides/recipes/direnv.html)
 
 ### Home Manager
 
