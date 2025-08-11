@@ -170,6 +170,7 @@ python3 fetch_title.py "https://nixos.asia/en/dev"
 
 ### Nix Flakes
 
+- [x] [Flake For Non-Nix Projects](https://duan.ca/2022/03/19/nix-dirnev/)
 - [x] [Zero to Nix Quick start](https://zero-to-nix.com/start/)
 - [ ] [Nix Flakes: first steps](https://blog.kubukoz.com/flakes-first-steps/)
 
