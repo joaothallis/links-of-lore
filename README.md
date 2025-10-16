@@ -12,7 +12,13 @@ python3 fetch_title.py "https://nixos.asia/en/dev"
 - [x] [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
 - [ ] [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
     - [ ] [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/)
-- [ ] [AI Voice Agents in 2025: A Comprehensive Guide](https://dev.to/kaymen99/ai-voice-agents-in-2025-a-comprehensive-guide-3kl)
+
+### OpenAI
+
+#### Realtime API
+
+- [x] [AI Voice Agents in 2025: A Comprehensive Guide](https://dev.to/kaymen99/ai-voice-agents-in-2025-a-comprehensive-guide-3kl)
+- [x] [Realtime API](https://developers.openai.com/blog/realtime-api)
 
 ## Ask Questions
 
