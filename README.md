@@ -119,6 +119,7 @@ python3 fetch_title.py "https://nixos.asia/en/dev"
 - [x] [PSA: Please sign your git commits](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2014-May/005877.html)
 - [x] [Sign your Git commits with 1Password](https://blog.1password.com/git-commit-signing/)
 - [x] [Signing Git Commits with SSH Keys](https://blog.dbrgn.ch/2021/11/16/git-ssh-signatures/)
+- [x] [Keeping CLAUDE.md out of shared Git repos](https://andyjakubowski.com/engineering/keeping-claude-md-out-of-shared-git-repos)
 
 ## SSH
 
