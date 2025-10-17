@@ -26,16 +26,10 @@ python fetch_title.py https://www.google.com
 
 ## Testing
 
-To run tests and check coverage, first install the necessary packages:
+To run tests:
 
 ```bash
-pip install pytest pytest-cov
-```
-
-Then, run the tests with coverage:
-
-```bash
-pytest --cov=fetch_title tests/test_fetch_title.py
+python -m pytest
 ```
 
 ## AI
