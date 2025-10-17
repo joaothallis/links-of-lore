@@ -7,7 +7,7 @@ This repository contains a simple Python script (`fetch_title.py`) that fetches 
 To install the required dependencies, run:
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ## Usage
