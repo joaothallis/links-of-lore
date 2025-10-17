@@ -1,9 +1,27 @@
 # Links of Lore
 
-To get the link with the title in markdown format, you can use the following command:
+This repository contains a simple Python script (`fetch_title.py`) that fetches the title of a given URL.
+
+## Installation
+
+To install the required dependencies, run:
 
 ```bash
-python3 fetch_title.py "https://nixos.asia/en/dev"
+pip install -r requirements.txt
+```
+
+## Usage
+
+To use the script, run:
+
+```bash
+python fetch_title.py <URL>
+```
+
+Example:
+
+```bash
+python fetch_title.py https://www.google.com
 ```
 
 ## AI
