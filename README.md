@@ -41,6 +41,7 @@ python3 fetch_title.py "https://nixos.asia/en/dev"
 ## Linux
 
 - [x] [How to Create and Use Symbolic Links (aka Symlinks) on Linux](https://www.howtogeek.com/287014/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/)
+- [x] [I tried multiple Linux distros on WSL - these are the best 5](https://www.xda-developers.com/i-tried-multiple-linux-distros-on-wsl-these-are-the-best-5/)
 
 ### i3
 
