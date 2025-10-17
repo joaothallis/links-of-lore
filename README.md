@@ -188,6 +188,7 @@ python -m pytest
 
 - [x] [Installing NixOS on a Raspberry Pi — nix.dev  documentation](https://nix.dev/tutorials/nixos/installing-nixos-on-a-raspberry-pi)
 - [x] [Install NixOS on DigitalOcean](https://madison-technologies.com/install-nixos-on-digitalocean/)
+- [x] [WSL](https://nixos.wiki/wiki/WSL)
 
 ### nix-shell
 
