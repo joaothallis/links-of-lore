@@ -24,6 +24,20 @@ Example:
 python fetch_title.py https://www.google.com
 ```
 
+## Testing
+
+To run tests and check coverage, first install the necessary packages:
+
+```bash
+pip install pytest pytest-cov
+```
+
+Then, run the tests with coverage:
+
+```bash
+pytest --cov=fetch_title tests/test_fetch_title.py
+```
+
 ## AI
 
 - [x] [The Developer's Guide to Focus in the Age of AI Distraction](https://dev.to/teamcamp/the-developers-guide-to-focus-in-the-age-of-ai-distraction-3k18)
