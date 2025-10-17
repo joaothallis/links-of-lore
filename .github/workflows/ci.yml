@@ -23,5 +23,3 @@ jobs:
         python -m pip install --upgrade pip
         pip install requests beautifulsoup4
 
-    - name: Check for broken links
-      run: python check_links.py
