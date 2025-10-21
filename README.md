@@ -263,6 +263,7 @@ python -m pytest
 - [x] [Plugin UI architecture](https://github.com/neovim/neovim/wiki/Plugin-UI-architecture)
 - [x] [Building Neovim from source](https://dev.to/asyncedd/building-neovim-from-source-1794)
 - [x] [How to use Neovim's built-in terminal emulator](https://the-pi-guy.com/blog/how_to_use_neovims_builtin_terminal_emulator/)
+- [x] [Setup neovim treesitter on windows using scoop and zig](https://www.sanketsjournal.com/articles/20240710-setup-neovim-treesitter-on-windows-using-scoop-and-zig)
 
 ## Terminal
 
