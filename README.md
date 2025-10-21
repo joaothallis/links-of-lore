@@ -190,6 +190,7 @@ python -m pytest
 - [x] [Install NixOS on DigitalOcean](https://madison-technologies.com/install-nixos-on-digitalocean/)
 - [x] [WSL](https://nixos.wiki/wiki/WSL)
 - [ ] [4 reasons I use NixOS in WSL instead of Ubuntu or Fedora](https://www.xda-developers.com/reasons-use-nixos-wsl-instead-ubuntu-fedora/)
+- [x] [Setup WSL with NixOS.](https://blog.pumpkincheshire.com/posts/linux/lx-01/)
 
 ### nix-shell
 
