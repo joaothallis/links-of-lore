@@ -63,6 +63,7 @@ python -m pytest
 
 - [x] [ZimaBlade Review - The Perfect Home Server?](httpss://technotim.live/posts/zimablade-review/)
 - [x] [Self-hosting your own media considered harmful (updated)](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated)
+- [x] [Getting Started with Your First Homelab - Beginner's Guide - Automate That](https://automate-that.io/Homelab/getting-started/)
 
 ## Linux
 
