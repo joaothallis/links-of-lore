@@ -192,6 +192,7 @@ python -m pytest
 - [x] [WSL](https://nixos.wiki/wiki/WSL)
 - [ ] [4 reasons I use NixOS in WSL instead of Ubuntu or Fedora](https://www.xda-developers.com/reasons-use-nixos-wsl-instead-ubuntu-fedora/)
 - [x] [Setup WSL with NixOS.](https://blog.pumpkincheshire.com/posts/linux/lx-01/)
+- [x] [Install NixOS with Flake configuration on Git](https://nixos.asia/en/nixos-install-flake)
 
 ### nix-shell
 
