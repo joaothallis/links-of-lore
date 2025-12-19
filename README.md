@@ -45,6 +45,7 @@ python -m pytest
 
 - [x] [AI Voice Agents in 2025: A Comprehensive Guide](https://dev.to/kaymen99/ai-voice-agents-in-2025-a-comprehensive-guide-3kl)
 - [x] [Realtime API](https://developers.openai.com/blog/realtime-api)
+- [x] [Realtime semantic VAD not working](https://community.openai.com/t/realtime-semantic-vad-not-working/1152461/6)
 
 ## Ask Questions
 
