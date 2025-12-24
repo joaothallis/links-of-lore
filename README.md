@@ -203,6 +203,8 @@
 
 ## Diagrams
 
+- [ ] [Home | C4 model](https://c4model.com/)
+
 ### PlantUML
 
 - [x] [PlantUML for database modeling](https://medium.com/@elvis.gosselin/plantuml-for-database-modeling-1b71e6d4622d) #uml
