@@ -1,37 +1,5 @@
 # Links of Lore
 
-This repository contains a simple Python script (`fetch_title.py`) that fetches the title of a given URL.
-
-## Installation
-
-To install the required dependencies, run:
-
-```bash
-python -m pip install -r requirements.txt
-```
-
-## Usage
-
-To use the script, run:
-
-```bash
-python fetch_title.py <URL>
-```
-
-Example:
-
-```bash
-python fetch_title.py https://www.google.com
-```
-
-## Testing
-
-To run tests:
-
-```bash
-python -m pytest
-```
-
 ## AI
 
 - [x] [The Developer's Guide to Focus in the Age of AI Distraction](https://dev.to/teamcamp/the-developers-guide-to-focus-in-the-age-of-ai-distraction-3k18)
