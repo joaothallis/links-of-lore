@@ -82,6 +82,7 @@
 - [x] [Intro to Distributed Elixir](https://medium.com/flatiron-labs/intro-to-distributed-elixir-e8a259bcc8f6)
 - [x] [Feature Flagging in Elixir with FunWithFlags](https://brittonbroderick.com/2022/11/29/feature-flagging-in-elixir-with-funwithflags/)
 - [x] [The story of the Elixir SDK](https://configcat.com/blog/2021/12/17/elixir-sdk-story/)
+- [x] [Elixir Protocols: a gentle introduction](https://alchemist.camp/episodes/elixir-protocols-intro)
 
 #### Poolboy
 
