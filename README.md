@@ -7,6 +7,10 @@
 - [ ] [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
     - [ ] [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/)
 
+### Audio
+
+- [x] [Arming the rebels with GPUs: Gradium, Kyutai, and Audio AI](https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai)
+
 ### OpenAI
 
 #### Realtime API
