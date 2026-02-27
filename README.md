@@ -178,6 +178,11 @@
 - [x] [Automatic environment activation with direnv — nix.dev  documentation](https://nix.dev/guides/recipes/direnv.html)
 - [x] [No More Broken LSPs: Bulletproof Elixir + Lexical Setup with Nix](https://beamops.co.uk/blog/reproducible-dev-shells) #lsp #elixir #nix #neovim #flakes
 
+### devenv
+
+- [x] [Getting Started](https://devenv.sh/getting-started/)
+- [x] [Files and variables](https://devenv.sh/files-and-variables/)
+
 ### Home Manager
 
 - [ ] [Managing dotfiles with Nix](https://alex.pearwin.com/2021/07/managing-dotfiles-with-nix/)
