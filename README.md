@@ -43,6 +43,10 @@
 - [x] [How to Create and Use Symbolic Links (aka Symlinks) on Linux](https://www.howtogeek.com/287014/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/)
 - [x] [I tried multiple Linux distros on WSL - these are the best 5](https://www.xda-developers.com/i-tried-multiple-linux-distros-on-wsl-these-are-the-best-5/)
 
+### Alpine
+
+- [x] [What is the Alpine linux default login & password?
+
 ### i3
 
 - [ ] [Enable tap to click in i3 WM](https://cravencode.com/post/essentials/enable-tap-to-click-in-i3wm/#additional-libinput-options)
