@@ -42,10 +42,13 @@
 
 - [x] [How to Create and Use Symbolic Links (aka Symlinks) on Linux](https://www.howtogeek.com/287014/how-to-create-and-use-symbolic-links-aka-symlinks-on-linux/)
 - [x] [I tried multiple Linux distros on WSL - these are the best 5](https://www.xda-developers.com/i-tried-multiple-linux-distros-on-wsl-these-are-the-best-5/)
+- [x] [Getting started with qemu](https://drewdevault.com/2018/09/10/Getting-started-with-qemu.html) #kvm #alpine
 
 ### Alpine
 
 - [x] [What is the Alpine linux default login & password?
+- [x] [About doas](https://ww2.coastal.edu/mmurphy2/oer/alpine/doas/)
+- [x] [Managing user account](https://ww2.coastal.edu/mmurphy2/oer/alpine/user-account/)
 
 ### i3
 
