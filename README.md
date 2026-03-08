@@ -6,6 +6,7 @@
 - [x] [Stuff we figured out about AI in 2023](https://simonwillison.net/2023/Dec/31/ai-in-2023/)
 - [ ] [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
     - [ ] [Large language models are having their Stable Diffusion moment](https://simonwillison.net/2023/Mar/11/llama/)
+- [x] [Remote control](https://code.claude.com/docs/en/remote-control)
 
 ### Audio
 
@@ -35,6 +36,8 @@
 ## Hardware
 
 - [x] [ZimaBlade Review - The Perfect Home Server?](httpss://technotim.live/posts/zimablade-review/)
+- [x] [ZimaBlade Review](https://www.tomshardware.com/reviews/zimablade#xenforo-comments-3822132)
+- [x] [Review: ZimaBlade Single-Board Server](https://www.hackster.io/news/review-zimablade-single-board-server-053c3ec4c901)
 - [x] [Self-hosting your own media considered harmful (updated)](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated)
 - [x] [Getting Started with Your First Homelab - Beginner's Guide - Automate That](https://automate-that.io/Homelab/getting-started/)
 
