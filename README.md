@@ -202,6 +202,10 @@
 
 - [ ] [Ditch your version manager](https://juliu.is/ditch-your-version-manager/)
 
+### nixos-anywhere
+
+- [x] [Quickstart Guide: nixos-anywhere](https://nix-community.github.io/nixos-anywhere/quickstart.html)
+
 ### Nix Flakes
 
 - [x] [Flake For Non-Nix Projects](https://duan.ca/2022/03/19/nix-dirnev/)
