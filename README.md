@@ -228,7 +228,7 @@
 ### PlantUML
 
 - [x] [PlantUML for database modeling](https://medium.com/@elvis.gosselin/plantuml-for-database-modeling-1b71e6d4622d) #uml
-- [x] [PlantUML - beautiful quick diagrams to explain your models]https://youtu.be/EM-cvRubP4g?si=h65kIXLQVoPKiiWZ) #uml
+- [x] [PlantUML - beautiful quick diagrams to explain your models](https://youtu.be/EM-cvRubP4g?si=h65kIXLQVoPKiiWZ) #uml
 
 ## Productivity
 
