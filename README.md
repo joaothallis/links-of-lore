@@ -278,6 +278,10 @@
 - [x] [Setup neovim treesitter on windows using scoop and zig](https://www.sanketsjournal.com/articles/20240710-setup-neovim-treesitter-on-windows-using-scoop-and-zig) #lua
 - [x] [The new native package manager in Neovim - Rakshith Bellare's blog](https://blog.rakshithnettar.com/the-new-native-package-manager-in-neovim/)
 
+### Vim
+
+- [x] [Code Reviews In Vim](https://marcelofern.com/posts/git/code_reviews_in_vim/) #git
+
 ## Terminal
 
 ### tmux
