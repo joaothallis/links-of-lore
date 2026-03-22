@@ -71,6 +71,7 @@
 ### termux
 
 - [x] [How To Turn Your Old Phone Into A Complete Powerful Server Using Localtunnel For Free?](https://medium.com/@sanchogodinho/how-to-turn-your-old-phone-into-a-complete-powerful-server-using-localtunnel-d5699b61f67)
+- [x] [Configure GitHub on Termux](https://site.thiskurt.me/post/configuregithubontermux/)
 
 ## Programming Languages
 
