@@ -220,6 +220,12 @@
 - [x] [OAuth mTLS – An Introduction to Mutual TLS for APIs](https://apiacademy.co/2022/11/oauth-mtls-an-introduction-to-mutual-tls-for-apis/)
 - [x] [Why is mutual TLS (mTLS) authentication a necessity in an organization?](https://www.encryptionconsulting.com/why-is-mutual-tls-mtls-authentication-needed/)
 
+## Cryptography
+
+### age
+
+- [x] [age - Web Encrypt](https://webencrypt.org/age/)
+
 ## IBM
 
 ### IBM MQ
