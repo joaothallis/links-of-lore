@@ -72,6 +72,7 @@
 
 - [x] [How To Turn Your Old Phone Into A Complete Powerful Server Using Localtunnel For Free?](https://medium.com/@sanchogodinho/how-to-turn-your-old-phone-into-a-complete-powerful-server-using-localtunnel-d5699b61f67)
 - [x] [Configure GitHub on Termux](https://site.thiskurt.me/post/configuregithubontermux/)
+- [x] [How to Install Gemini CLI in Termux on Android](https://www.learntermux.tech/2025/10/how-to-install-gemini-cli-in-termux.html)
 
 ## Programming Languages
 
@@ -220,11 +221,14 @@
 - [x] [OAuth mTLS – An Introduction to Mutual TLS for APIs](https://apiacademy.co/2022/11/oauth-mtls-an-introduction-to-mutual-tls-for-apis/)
 - [x] [Why is mutual TLS (mTLS) authentication a necessity in an organization?](https://www.encryptionconsulting.com/why-is-mutual-tls-mtls-authentication-needed/)
 
-## Cryptography
+## Security
+
+- [x] [The PGP problem | Latacora](https://www.latacora.com/blog/2019/07/16/the-pgp-problem/)
 
 ### age
 
 - [x] [age - Web Encrypt](https://webencrypt.org/age/)
+- [ ] [age and Authenticated Encryption](https://words.filippo.io/age-authentication/)
 
 ## IBM
 
