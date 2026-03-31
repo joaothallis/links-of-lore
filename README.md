@@ -228,7 +228,7 @@
 ### age
 
 - [x] [age - Web Encrypt](https://webencrypt.org/age/)
-- [ ] [age and Authenticated Encryption](https://words.filippo.io/age-authentication/)
+- [x] [age and Authenticated Encryption](https://words.filippo.io/age-authentication/)
 
 ## IBM
 
