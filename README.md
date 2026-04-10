@@ -179,6 +179,7 @@
 - [ ] [4 reasons I use NixOS in WSL instead of Ubuntu or Fedora](https://www.xda-developers.com/reasons-use-nixos-wsl-instead-ubuntu-fedora/)
 - [x] [Setup WSL with NixOS.](https://blog.pumpkincheshire.com/posts/linux/lx-01/)
 - [x] [Install NixOS with Flake configuration on Git](https://nixos.asia/en/nixos-install-flake)
+- [x] [Neovim on NixOS: Nixvim vs NixCats vs NVF - YouTube](https://youtu.be/VTIGSxpzlIM?si=2jJ4YaJuWgic--80)
 
 ### nix-shell
 
@@ -273,6 +274,7 @@
 - [x] [Building Neovim from source](https://dev.to/asyncedd/building-neovim-from-source-1794)
 - [x] [How to use Neovim's built-in terminal emulator](https://the-pi-guy.com/blog/how_to_use_neovims_builtin_terminal_emulator/)
 - [x] [Setup neovim treesitter on windows using scoop and zig](https://www.sanketsjournal.com/articles/20240710-setup-neovim-treesitter-on-windows-using-scoop-and-zig) #lua
+- [x] [The new native package manager in Neovim - Rakshith Bellare's blog](https://blog.rakshithnettar.com/the-new-native-package-manager-in-neovim/)
 
 ## Terminal
 
