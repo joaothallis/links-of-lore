@@ -230,6 +230,7 @@
 
 - [x] [age - Web Encrypt](https://webencrypt.org/age/)
 - [x] [age and Authenticated Encryption](https://words.filippo.io/age-authentication/)
+- [x] [gitattributes age encrypt](https://seankhliao.com/blog/12020-09-24-gitattributes-age-encrypt/#-gitattributes--1)
 
 ## IBM
 
