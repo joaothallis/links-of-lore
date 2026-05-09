@@ -250,6 +250,7 @@
 ## Productivity
 
 - [x] [The Ivy Lee Method: The Daily Routine Experts Recommend for Peak Productivity](https://jamesclear.com/ivy-lee)
+- [x] [Software Engineer Burnout: Signs, Causes & Recovery Guide | Hello Kellyco](https://hellokellyco.com/blog/software-engineer-burnout-signs-causes-how-to-recover-without-quitting-tech)
 
 ## Planning
 
