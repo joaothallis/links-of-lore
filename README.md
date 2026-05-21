@@ -215,6 +215,10 @@
 - [x] [Zero to Nix Quick start](https://zero-to-nix.com/start/)
 - [x] [How to configure NixOS-WSL with flakes](https://nix-community.github.io/NixOS-WSL/how-to/nix-flakes.html)
 
+### microvm.nix
+
+- [x] [What is microvm.nix and why you should use it - kraftnix](https://kraftnix.dev/blog/why-you-should-use-microvm-nix/)
+
 ## Authentication
 
 ### mTLS ✓
