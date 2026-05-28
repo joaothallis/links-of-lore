@@ -253,6 +253,7 @@
 
 ## Productivity
 
+- [x] [How to Focus at Work: A No-App Toolkit for Deep Work — Ana Catarina Miranda](https://acatarinamiranda.com/blog/how-to-focus-at-work-no-app-required/)
 - [x] [How to Stop Dreaming About Work](https://www.verywellmind.com/how-to-stop-dreaming-about-work-5205196)
 - [x] [The Ivy Lee Method: The Daily Routine Experts Recommend for Peak Productivity](https://jamesclear.com/ivy-lee)
 - [x] [Software Engineer Burnout: Signs, Causes & Recovery Guide | Hello Kellyco](https://hellokellyco.com/blog/software-engineer-burnout-signs-causes-how-to-recover-without-quitting-tech)
