@@ -134,6 +134,7 @@
 - [x] [Sign your Git commits with 1Password](https://blog.1password.com/git-commit-signing/)
 - [x] [Signing Git Commits with SSH Keys](https://blog.dbrgn.ch/2021/11/16/git-ssh-signatures/)
 - [x] [Keeping CLAUDE.md out of shared Git repos](https://andyjakubowski.com/engineering/keeping-claude-md-out-of-shared-git-repos)
+- [x] [Git Worktree Tutorial: Multiple Working Trees Made Simple](https://www.datacamp.com/tutorial/git-worktree-tutorial)
 
 ## SSH
 
