@@ -262,6 +262,7 @@
 ## Feedback
 
 - [x] [Feedback - Handbook - PostHog](https://posthog.com/handbook/people/feedback)
+- [x] [Why you're bad at giving feedback - PostHog](https://posthog.com/newsletter/how-to-give-feedback)
 
 ## Planning
 
