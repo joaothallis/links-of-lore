@@ -11,6 +11,8 @@
 ### Audio
 
 - [x] [Arming the rebels with GPUs: Gradium, Kyutai, and Audio AI](https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai)
+- [x] [Introducing AI-powered Clinical Notes API for Telehealth](https://www.daily.co/blog/introducing-ai-powered-clinical-notes-api-for-telehealth/)
+- [x] [Introducing Medical Mode: Clinical-grade transcription accuracy for Healthcare AI](https://www.assemblyai.com/blog/introducing-medical-mode)
 
 ### OpenAI
 
