@@ -67,6 +67,7 @@ Top-level sections in `README.md` (use the closest match; create a new `##` sect
 - `## Terminal` → `### tmux`, `### Ghostty`
 - `## Bitcoin` (incl. `### Lightning Network`, `### Bitcoin Improvement Proposals`, `### Descriptors`, `### Script`, `### Cryptography`)
 - `## Kafka`
+- `## Networking`
 - `## Globalization`
 - `## Android`
 

@@ -339,6 +339,10 @@
 
 - [x] [How to benchmark a Kafka consumer that makes async HTTP requests?](https://medium.com/helpshift-engineering/how-to-benchmark-a-kafka-consumer-that-makes-async-http-requests-7d7134d62f57)
 
+## Networking
+
+- [x] [SIP Tutorial | Explanation on the basics of Session Initiation Protocol and how SIP Response Codes work.](https://www.voipmechanic.com/sip-basics.htm)
+
 ## Globalization
 
 - [x] [Standard locale names](https://learn.microsoft.com/en-us/globalization/locale/standard-locale-names)
