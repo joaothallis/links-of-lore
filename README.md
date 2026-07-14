@@ -251,6 +251,10 @@
 
 - [ ] [Home | C4 model](https://c4model.com/)
 
+## Terraform
+
+- [x] [Introduction to Terraform](https://developer.hashicorp.com/terraform/intro)
+
 ### PlantUML
 
 - [x] [PlantUML for database modeling](https://medium.com/@elvis.gosselin/plantuml-for-database-modeling-1b71e6d4622d) #uml
