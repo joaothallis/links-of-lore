@@ -267,6 +267,7 @@
 - [x] [How to Stop Dreaming About Work](https://www.verywellmind.com/how-to-stop-dreaming-about-work-5205196)
 - [x] [The Ivy Lee Method: The Daily Routine Experts Recommend for Peak Productivity](https://jamesclear.com/ivy-lee)
 - [x] [Software Engineer Burnout: Signs, Causes & Recovery Guide | Hello Kellyco](https://hellokellyco.com/blog/software-engineer-burnout-signs-causes-how-to-recover-without-quitting-tech)
+- [x] [Developer Productivity: Daily Planning Techniques](https://www.fullstack.com/labs/resources/blog/how-to-successfully-plan-your-day-as-a-developer)
 
 ## Feedback
 
