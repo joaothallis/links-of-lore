@@ -37,6 +37,7 @@
 - [x] [PostgreSQL Tutorial for Beginners: Locking](https://www.youtube.com/watch?v=lhhFBqWMDvk)
 - [x] [https://trstringer.com/postgres-client-vim/](https://trstringer.com/postgres-client-vim/) #tmux #vim #psql
 - [x] [Postgresql - Termux Wiki](https://wiki.termux.com/wiki/Postgresql)
+- [x] [What is fillfactor and how does it affect PostgreSQL performance?](https://www.cybertec-postgresql.com/en/what-is-fillfactor-and-how-does-it-affect-postgresql-performance/)
 
 ## Hardware
 
@@ -45,6 +46,7 @@
 - [x] [Review: ZimaBlade Single-Board Server](https://www.hackster.io/news/review-zimablade-single-board-server-053c3ec4c901)
 - [x] [Self-hosting your own media considered harmful (updated)](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated)
 - [x] [Getting Started with Your First Homelab - Beginner's Guide - Automate That](https://automate-that.io/Homelab/getting-started/)
+- [x] [A new keyboard – Meet the Totem | Flo's blog](https://flo.gaechter.xyz/posts/totem-keyboard/)
 
 ## Linux
 
