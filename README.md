@@ -229,6 +229,8 @@
 
 ## Authentication
 
+- [x] [What is OAuth 2.0? Definition & Examples | Auth0](https://auth0.com/intro-to-iam/what-is-oauth-2)
+
 ### mTLS ✓
 
 - [x] [OAuth mTLS – An Introduction to Mutual TLS for APIs](https://apiacademy.co/2022/11/oauth-mtls-an-introduction-to-mutual-tls-for-apis/)
@@ -252,7 +254,7 @@
 
 ## Diagrams
 
-- [ ] [Home | C4 model](https://c4model.com/)
+- [x] [C4 model](https://c4model.com/)
 
 ## Terraform
 
