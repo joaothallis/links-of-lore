@@ -360,3 +360,7 @@
 ## Android
 
 - [x] [Use your Galaxy tablet as a second screen with your Windows PC](https://www.samsung.com/us/support/answer/ANS10002024/)
+
+## Travel
+
+- [x] [Travel Packing 101 How to Pack for EVERYWHERE](https://outofoffice.blog/travel-packing/)
