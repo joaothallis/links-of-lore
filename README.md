@@ -354,6 +354,11 @@
 
 - [x] [SIP Tutorial | Explanation on the basics of Session Initiation Protocol and how SIP Response Codes work.](https://www.voipmechanic.com/sip-basics.htm)
 
+### HTTP
+
+- [x] [405 Method Not Allowed - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/405)
+- [x] [406 Not Acceptable - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/406)
+
 ## Globalization
 
 - [x] [Standard locale names](https://learn.microsoft.com/en-us/globalization/locale/standard-locale-names)
