@@ -47,6 +47,8 @@
 - [x] [Self-hosting your own media considered harmful (updated)](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful-updated)
 - [x] [Getting Started with Your First Homelab - Beginner's Guide - Automate That](https://automate-that.io/Homelab/getting-started/)
 - [x] [A new keyboard – Meet the Totem | Flo's blog](https://flo.gaechter.xyz/posts/totem-keyboard/)
+- [x] [Xteink X3 – Getting Started – readme.club](https://www.readme.club/guide/xteink-x3-getting-started)
+- [x] [Xteink X3 User Guide](https://cdn.shopify.com/s/files/1/0759/9344/8689/files/X3_User_Guide_0914.pdf?v=1789369430)
 
 ## Linux
 
