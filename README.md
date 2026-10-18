@@ -233,6 +233,7 @@
 
 - [x] [What is OAuth 2.0? Definition & Examples | Auth0](https://auth0.com/intro-to-iam/what-is-oauth-2)
 - [x] [OAuth 2.1](https://oauth.net/2.1/)
+- [x] [It's Time for OAuth 2.1 • Aaron Parecki](https://aaronparecki.com/2019/12/12/21/its-time-for-oauth-2-dot-1)
 
 ### mTLS ✓
 
