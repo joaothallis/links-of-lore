@@ -358,6 +358,7 @@
 
 - [x] [SIP Tutorial | Explanation on the basics of Session Initiation Protocol and how SIP Response Codes work.](https://www.voipmechanic.com/sip-basics.htm)
 - [x] [Introduction to Linphone Customization: What You Need to Know](https://sheerbit.com/introduction-to-linphone-customization-what-you-need-to-know/)
+- [x] [Learning Erlang and developing a SIP server/stack with 30k potential users](https://erlang.org/euc/04/thulin.pdf)
 
 ### HTTP
 
