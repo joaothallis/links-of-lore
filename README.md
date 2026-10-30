@@ -30,6 +30,8 @@
 
 ## Database
 
+- [x] [What is SQL? [in 4 minutes for beginners]](https://www.youtube.com/watch?v=27axs9dO7AE)
+
 ### Postgres
 
 - [x] [Postgres indexes for absolute beginners](https://www.pgmustard.com/blog/2019/04/02/postgres-indexes-for-absolute-beginners)
