@@ -290,6 +290,7 @@
 
 - [x] [Intro to Linear](https://www.youtube.com/watch?v=9Q5BoiIFBiY)
 - [x] [Project planning and tracking progress in Linear](https://www.youtube.com/watch?v=JLpDL7x50hA)
+
 ### Estimation
 
 - [x] [Software Development Estimation: A Quick Guide](https://www.projectmanager.com/blog/software-development-estimation)
